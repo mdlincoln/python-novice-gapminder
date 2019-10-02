@@ -20,6 +20,8 @@ as well. Please note that this lesson uses Python 3 rather than Python 2.
 > and for commentary on the ones already there.**
 {: .callout}
 
+We need to improve the UI for this.
+
 > ## Prerequisites
 >
 > 1.  Learners need to understand what files and directories are,
